@@ -1,26 +1,34 @@
-# Cosmic Task Master
+# Cosmic Task Master 🚀
 
-create a to do list website it should look so advanced with dark theme fully gammimg like to do list
+A futuristic, gaming-inspired To-Do List application designed to turn everyday tasks into quests.
 
-This project was built with [Lovable](https://lovable.dev).
+## 🌐 Live Demo
 
-**Live app**: https://quest-l0g.lovable.app
+https://your-vercel-project.vercel.app
 
-## Build with Lovable
+## 🎮 Features
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/da2dea64-1b88-4be1-9596-6ba77293ca7e).
+- 🎯 Gaming-inspired task management
+- ⚡ XP and progression system
+- 🏆 Quest-based task completion
+- 🌌 Dark futuristic UI
+- 📊 Progress tracking
+- 🔥 Daily tasks and challenges
+- 🎮 Responsive gaming interface
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Tech Stack
 
-## Development
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- JavaScript
+- Vercel
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🚀 Run Locally
 
-```sh
-git clone <this-repository-url>
+Clone the repository:
+
+```bash
+git clone <your-repository-url>
 cd <repository-name>
-npm i
-npm run dev
-```
